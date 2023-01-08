@@ -1,0 +1,476 @@
+{
+  "packages": [
+    {
+      "maintainer": "DFRobot DFRDuino", 
+      "help": {
+        "online": "http://esp32.com"
+      }, 
+      "websiteURL": "https://github.com/espressif/arduino-esp32", 
+      "platforms": [
+      {
+          "category": "firebeetle32", 
+          "help": {
+            "online": ""
+          }, 
+          "url": "http://download3.dfrobot.com.cn/FireBeetle/DFRobot_FireBeetle-ESP32-0.1.1.zip", 
+          "checksum": "SHA-256:f4ab9b993d884392944e0b888266a9acda6618cabccb12b709e2c2bbf183210b",
+          "version": "0.1.1", 
+          "architecture": "esp32", 
+          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.1.1.zip", 
+          "boards": [
+            {
+              "name": "FireBettle-ESP32"
+            }
+          ], 
+          "size": "35967684",
+          "toolsDependencies": [
+            {
+              "packager": "firebeetle32", 
+              "version": "1.22.0-80-g6c4433a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "packager": "firebeetle32", 
+              "version": "2.6.1", 
+              "name": "esptool_py"
+            },
+            {
+              "packager": "firebeetle32", 
+              "version": "0.2.3", 
+              "name": "mkspiffs"
+            }
+          ], 
+          "name": "FireBeetle-ESP32 Mainboard"
+      },
+      {
+          "category": "firebeetle32", 
+          "help": {
+            "online": ""
+          }, 
+          "url": "http://download3.dfrobot.com.cn/FireBeetle/DFRobot_FireBeetle-ESP32-0.1.0.zip", 
+          "checksum": "SHA-256:13e8029d2198f55a9568d73d9ffb2e6cdc0d0de1a0fecde485a3ec18a9968a3a",
+          "version": "0.1.0", 
+          "architecture": "esp32", 
+          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.1.0.zip", 
+          "boards": [
+            {
+              "name": "FireBettle-ESP32"
+            }
+          ], 
+          "size": "35839581",
+          "toolsDependencies": [
+            {
+              "packager": "firebeetle32", 
+              "version": "1.22.0-80-g6c4433a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "packager": "firebeetle32", 
+              "version": "2.6.1", 
+              "name": "esptool_py"
+            },
+            {
+              "packager": "firebeetle32", 
+              "version": "0.2.3", 
+              "name": "mkspiffs"
+            }
+          ], 
+          "name": "FireBeetle-ESP32 Mainboard"
+      },
+      {
+          "category": "ESP32", 
+          "help": {
+            "online": ""
+          }, 
+          "url": "http://download3.dfrobot.com.cn/FireBeetle/DFRobot_FireBeetle-ESP32-0.0.9.zip", 
+          "checksum": "SHA-256:f3755a129b2aece67685091b72538545f4afd08457708f19f33f675b3e5d218e",
+          "version": "0.0.9", 
+          "architecture": "esp32", 
+          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.0.9.zip", 
+          "boards": [
+            {
+              "name": "FireBettle-ESP32"
+            }
+          ], 
+          "size": "34582719",
+          "toolsDependencies": [
+            {
+              "packager": "firebeetle32", 
+              "version": "1.22.0-61-gab8375a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }
+          ], 
+          "name": "FireBeetle-ESP32 Mainboard"
+      },
+      {
+          "category": "ESP32", 
+          "help": {
+            "online": ""
+          }, 
+          "url": "http://download3.dfrobot.com.cn/FireBeetle/DFRobot_FireBeetle-ESP32-0.0.8.zip", 
+          "checksum": "SHA-256:0a9ec3a97495997707f02a4a0a7f195ac5a9b03ac66566704b1ebe3a2b3188a2",
+          "version": "0.0.8", 
+          "architecture": "esp32", 
+          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.0.8.zip", 
+          "boards": [
+            {
+              "name": "FireBettle-ESP32"
+            }
+          ], 
+          "size": "34582698",
+          "toolsDependencies": [
+            {
+              "packager": "firebeetle32", 
+              "version": "1.22.0-61-gab8375a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }
+          ], 
+          "name": "FireBeetle-ESP32 Mainboard"
+      },
+      {
+          "category": "ESP32", 
+          "help": {
+            "online": ""
+          }, 
+          "url": "http://download3.dfrobot.com.cn/FireBeetle/DFRobot_FireBeetle-ESP32-0.0.7.zip", 
+          "checksum": "SHA-256:7cad479d6af202f59fd1de6a2c3ccff3bff75b44d639b06736ec202e74671d10",
+          "version": "0.0.7", 
+          "architecture": "esp32", 
+          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.0.7.zip", 
+          "boards": [
+            {
+              "name": "FireBettle-ESP32"
+            }
+          ], 
+          "size": "31496321",
+          "toolsDependencies": [
+            {
+              "packager": "firebeetle32", 
+              "version": "1.22.0-61-gab8375a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }
+          ], 
+          "name": "FireBeetle-ESP32 Mainboard"
+      },
+      {
+          "category": "ESP32", 
+          "help": {
+            "online": ""
+          }, 
+          "url": "http://download3.dfrobot.com.cn/FireBeetle/DFRobot_FireBeetle-ESP32-0.0.6.zip", 
+          "checksum": "SHA-256:4890bf15a56697bafa71aa307a946d1518bec3f0d138419d97c12c844c1ffb46",
+          "version": "0.0.6", 
+          "architecture": "esp32", 
+          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.0.6.zip", 
+          "boards": [
+            {
+              "name": "FireBettle-ESP32"
+            }
+          ], 
+          "size": "30183880",
+          "toolsDependencies": [
+            {
+              "packager": "firebeetle32", 
+              "version": "1.22.0-61-gab8375a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }
+          ], 
+          "name": "FireBeetle-ESP32 Mainboard"
+    },
+    {
+          "category": "ESP32", 
+          "help": {
+            "online": ""
+          }, 
+          "url": "http://download3.dfrobot.com.cn/FireBeetle/DFRobot_FireBeetle-ESP32-0.0.5.zip", 
+          "checksum": "SHA-256:0b93fedbc3066208db4b885a2e03a789d4e581b24f0e935d012e34e78bfd9430",
+          "version": "0.0.5", 
+          "architecture": "esp32", 
+          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.0.5.zip", 
+          "boards": [
+            {
+              "name": "FireBettle-ESP32"
+            }
+          ], 
+          "size": "30183879",
+          "toolsDependencies": [
+            {
+              "packager": "firebeetle32", 
+              "version": "1.22.0-61-gab8375a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }
+          ], 
+          "name": "FireBeetle-ESP32 Mainboard"
+    },
+    {
+          "category": "ESP32", 
+          "help": {
+            "online": ""
+          }, 
+          "url": "http://download3.dfrobot.com.cn/FireBeetle/DFRobot_FireBeetle-ESP32-0.0.4.zip", 
+          "checksum": "SHA-256:e0c14e03508248b2341e94b952908160924e8098c0b7fa0b6cae2e361e21f063",
+          "version": "0.0.4", 
+          "architecture": "esp32", 
+          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.0.4.zip", 
+          "boards": [
+            {
+              "name": "FireBettle-ESP32"
+            }
+          ], 
+          "size": "26016389",
+          "toolsDependencies": [
+            {
+              "packager": "firebeetle32", 
+              "version": "1.22.0-61-gab8375a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }
+          ], 
+          "name": "FireBeetle-ESP32 Mainboard"
+    },
+    {
+          "category": "ESP32", 
+          "help": {
+            "online": ""
+          }, 
+          "url": "http://download3.dfrobot.com.cn/FireBeetle/DFRobot_FireBeetle-ESP32-0.0.3.zip", 
+          "checksum": "SHA-256:e81ee7843fdb0b40d0c8f5b80a23ddd7647e580eecc75290544adaf3cc7e05c4",
+          "version": "0.0.3", 
+          "architecture": "esp32", 
+          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.0.3.zip", 
+          "boards": [
+            {
+              "name": "FireBettle-ESP32"
+            }
+          ], 
+          "size": "24763953",
+          "toolsDependencies": [
+            {
+              "packager": "firebeetle32", 
+              "version": "1.22.0-61-gab8375a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }
+          ], 
+          "name": "FireBeetle-ESP32 Mainboard"
+    },
+    {
+          "category": "ESP32", 
+          "help": {
+            "online": ""
+          }, 
+          "url": "http://download3.dfrobot.com.cn/FireBeetle/DFRobot_FireBeetle-ESP32-0.0.2.zip", 
+          "checksum": "SHA-256:aeb2a03bdce4bfbbaedd310933dcfb6e4703ab145cb2d90d166d0920204026e4",
+          "version": "0.0.2", 
+          "architecture": "esp32", 
+          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.0.2.zip", 
+          "boards": [
+            {
+              "name": "FireBettle-ESP32"
+            }
+          ], 
+          "size": "22124904",
+          "toolsDependencies": [
+            {
+              "packager": "firebeetle32", 
+              "version": "1.22.0-61-gab8375a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }
+          ], 
+          "name": "FireBeetle-ESP32 Mainboard"
+        },
+	    {
+          "category": "ESP32", 
+          "help": {
+            "online": ""
+          }, 
+          "url": "http://download3.dfrobot.com.cn/FireBeetle/DFRobot_FireBeetle-ESP32-0.0.1.zip", 
+          "checksum": "SHA-256:a3d0a1e193bbe3b10016b1ffe94e47f571731a337b1d1b5a816921d558b2c0ed",
+          "version": "0.0.1", 
+          "architecture": "esp32", 
+          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.0.1.zip", 
+          "boards": [
+            {
+              "name": "FireBettle-ESP32"
+            }
+          ], 
+          "size": "197121",
+          "toolsDependencies": [
+            {
+              "packager": "firebeetle32", 
+              "version": "1.22.0-61-gab8375a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }
+          ], 
+          "name": "FireBeetle-ESP32 Mainboard"
+        }
+      ], 
+      "tools": [
+        {
+          "version": "1.22.0-80-g6c4433a-5.2.0", 
+          "name": "xtensa-esp32-elf-gcc", 
+          "systems": [
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/xtensa-esp32-elf-win32-1.22.0-80-g6c4433a-5.2.0.zip", 
+              "checksum": "SHA-256:f217fccbeaaa8c92db239036e0d6202458de4488b954a3a38f35ac2ec48058a4", 
+              "host": "i686-mingw32", 
+              "archiveFileName": "xtensa-esp32-elf-win32-1.22.0-80-g6c4433a-5.2.0.zip", 
+              "size": "125719261"
+            }, 
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz", 
+              "checksum": "SHA-256:a4307a97945d2f2f2745f415fbe80d727750e19f91f9a1e7e2f8a6065652f9da", 
+              "host": "x86_64-apple-darwin", 
+              "archiveFileName": "xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz", 
+              "size": "46517409"
+            }, 
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/xtensa-esp32-elf-linux64-1.22.0-80-g6c4433a-5.2.0.tar.gz", 
+              "checksum": "SHA-256:3fe96c151d46c1d4e5edc6ed690851b8e53634041114bad04729bc16b0445156", 
+              "host": "x86_64-pc-linux-gnu", 
+              "archiveFileName": "xtensa-esp32-elf-linux64-1.22.0-80-g6c4433a-5.2.0.tar.gz", 
+              "size": "44219107"
+            }, 
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/xtensa-esp32-elf-linux32-1.22.0-80-g6c4433a-5.2.0.tar.gz", 
+              "checksum": "SHA-256:b4055695ffc2dfc0bcb6dafdc2572a6e01151c4179ef5fa972b3fcb2183eb155", 
+              "host": "i686-pc-linux-gnu", 
+              "archiveFileName": "xtensa-esp32-elf-linux32-1.22.0-80-g6c4433a-5.2.0.tar.gz", 
+              "size": "45566336"
+            }, 
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/xtensa-esp32-elf-linux-armel-1.22.0-87-gb57bad3-5.2.0.tar.gz", 
+              "checksum": "SHA-256:9c68c87bb23b1256dc0a1859b515946763e5292dcab4a4159a52fae5618ce861", 
+              "host": "arm-linux-gnueabihf", 
+              "archiveFileName": "xtensa-esp32-elf-linux-armel-1.22.0-87-gb57bad3-5.2.0.tar.gz", 
+              "size": "50655584"
+            }
+          ]
+        },
+        {
+          "version": "1.22.0-61-gab8375a-5.2.0", 
+          "name": "xtensa-esp32-elf-gcc", 
+          "systems": [
+            {
+              "url": "http://download3.dfrobot.com.cn/FireBeetle/xtensa-esp32-elf-win32-1.22.0-61-gab8375a-5.2.0.zip", 
+              "checksum": "SHA-256:c00dbdab8e8acc273d4aa319a74f7bb1d9496c843159823201d685359174168f", 
+              "host": "i686-mingw32", 
+              "archiveFileName": "xtensa-esp32-elf-win32-1.22.0-61-gab8375a-5.2.0.zip", 	
+              "size": "76346909"
+            },
+            {
+              "url": "http://download3.dfrobot.com.cn/FireBeetle/xtensa-esp32-elf-osx-1.22.0-61-gab8375a-5.2.0.tar.gz", 
+              "checksum": "SHA-256:89a9a6084ec032ddcd4bdae37b428e533ed5fd0c0ab6b66ddf703e4b3f83d6e4", 
+              "host": "x86_64-apple-darwin", 
+              "archiveFileName": "xtensa-esp32-elf-osx-1.22.0-61-gab8375a-5.2.0.tar.gz",   
+              "size": "40481812"
+            },
+			{
+              "host": "x86_64-pc-linux-gnu",
+              "url": "http://download3.dfrobot.com.cn/FireBeetle/xtensa-esp32-elf-linux64-1.22.0-61-gab8375a-5.2.0.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-linux64-1.22.0-61-gab8375a-5.2.0.tar.gz",
+              "checksum": "SHA-256:b74333fd7f622f035fee7c4e0ca57c3e2ccb2515de5d901f33e87e79cdf0d4f9",
+              "size": "37674568"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "url": "http://download3.dfrobot.com.cn/FireBeetle/xtensa-esp32-elf-linux32-1.22.0-61-gab8375a-5.2.0.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-linux32-1.22.0-59.tar.gz",
+              "checksum": "SHA-256:dbb342b7c377a7c3a1fcccc60fa1193332d0c37e6a90c5075d3471c13c9e94ad",
+              "size": "41032647"
+            }
+          ]
+        },
+        {
+          "version": "2.6.1", 
+          "name": "esptool_py", 
+          "systems": [
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/esptool-2.6.1-windows.zip", 
+              "checksum": "SHA-256:84cf0b369a7707fe566434faba148852fc464992111d5baa95b658b374802f96", 
+              "host": "i686-mingw32", 
+              "archiveFileName": "esptool-2.6.1-windows.zip", 
+              "size": "3422445"
+            }, 
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/esptool-2.6.1-macos.tar.gz", 
+              "checksum": "SHA-256:f4eb758a301d6902cc9dfcd49d36345d2f075ad123da7cf8132d15cfb7533457", 
+              "host": "x86_64-apple-darwin", 
+              "archiveFileName": "esptool-2.6.1-macos.tar.gz", 
+              "size": "3837085"
+            }, 
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/esptool-2.6.1-linux.tar.gz", 
+              "checksum": "SHA-256:eaf82ff4070d9792f6a42ae1e485375de5a87bec59ef01dfb95de901519ec7fb", 
+              "host": "x86_64-pc-linux-gnu", 
+              "archiveFileName": "esptool-2.6.1-linux.tar.gz", 
+              "size": "44762"
+            }, 
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/esptool-2.6.1-linux.tar.gz", 
+              "checksum": "SHA-256:eaf82ff4070d9792f6a42ae1e485375de5a87bec59ef01dfb95de901519ec7fb", 
+              "host": "i686-pc-linux-gnu", 
+              "archiveFileName": "esptool-2.6.1-linux.tar.gz", 
+              "size": "44762"
+            }, 
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/esptool-2.6.1-linux.tar.gz", 
+              "checksum": "SHA-256:eaf82ff4070d9792f6a42ae1e485375de5a87bec59ef01dfb95de901519ec7fb", 
+              "host": "arm-linux-gnueabihf", 
+              "archiveFileName": "esptool-2.6.1-linux.tar.gz", 
+              "size": "44762"
+            }
+          ]
+        },
+        {
+          "version": "0.2.3", 
+          "name": "mkspiffs", 
+          "systems": [
+            {
+              "url": "http://download3.dfrobot.com.cn/FireBeetle/mkspiffs-0.2.3-arduino-esp32-win32.zip", 
+              "checksum": "SHA-256:b647f2c2efe6949819c85ea9404271b55c7c9c25bcb98d3b98a1d0ba771adf56", 
+              "host": "i686-mingw32", 
+              "archiveFileName": "mkspiffs-0.2.3-arduino-esp32-win32.zip", 
+              "size": "249809"
+            }, 
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/mkspiffs-0.2.3-arduino-esp32-osx.tar.gz", 
+              "checksum": "SHA-256:9f43fc74a858cf564966b5035322c3e5e61c31a647c5a1d71b388ed6efc48423", 
+              "host": "x86_64-apple-darwin", 
+              "archiveFileName": "mkspiffs-0.2.3-arduino-esp32-osx.tar.gz", 
+              "size": "130270"
+            }, 
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/mkspiffs-0.2.3-arduino-esp32-osx.tar.gz", 
+              "checksum": "SHA-256:9f43fc74a858cf564966b5035322c3e5e61c31a647c5a1d71b388ed6efc48423", 
+              "host": "i386-apple-darwin", 
+              "archiveFileName": "mkspiffs-0.2.3-arduino-esp32-osx.tar.gz", 
+              "size": "130270"
+            }, 
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/mkspiffs-0.2.3-arduino-esp32-linux64.tar.gz", 
+              "checksum": "SHA-256:5e1a4ff41385e842f389f6b5254102a547e566a06b49babeffa93ef37115cb5d", 
+              "host": "x86_64-pc-linux-gnu", 
+              "archiveFileName": "mkspiffs-0.2.3-arduino-esp32-linux64.tar.gz", 
+              "size": "50646"
+            }, 
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/mkspiffs-0.2.3-arduino-esp32-linux32.tar.gz", 
+              "checksum": "SHA-256:464463a93e8833209cdc29ba65e1a12fec31718dc10075c195a2445b2c3f6cb0", 
+              "host": "i686-pc-linux-gnu", 
+              "archiveFileName": "mkspiffs-0.2.3-arduino-esp32-linux32.tar.gz", 
+              "size": "48751"
+            }, 
+            {
+              "url": "http://download.dfrobot.top/FireBeetle/tools/mkspiffs-0.2.3-arduino-esp32-linux-armhf.tar.gz", 
+              "checksum": "SHA-256:ade3dc00117912ac08a1bdbfbfe76b12d21a34bc5fa1de0cfc45fe7a8d0a0185", 
+              "host": "arm-linux-gnueabihf", 
+              "archiveFileName": "mkspiffs-0.2.3-arduino-esp32-linux-armhf.tar.gz", 
+              "size": "40665"
+            }
+          ]
+        } 
+      ], 
+      "email": "hristo@espressif.com", 
+      "name": "firebeetle32"
+    }
+  ]
+}
